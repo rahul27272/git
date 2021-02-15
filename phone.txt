@@ -1,3 +1,4 @@
 phone
 disine 
-activity
+activit
+cameras
